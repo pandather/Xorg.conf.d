@@ -1,2 +1,2 @@
-# Xorg.conf.d
+# xorg.conf.d
 My Xorg config.
